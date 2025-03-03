@@ -1,4 +1,3 @@
-# Netlify-setup
 # Netlify Setup Guide
 This repository contains a Tailwind CSS project configured for Netlify deployment.
 ## Deployment Configuration
